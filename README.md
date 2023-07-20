@@ -24,4 +24,5 @@ remote:
 To https://github.com/zhuzij/vci_website.git
    6c08e5d..01100d0  main -> main
 
-I since added zhuzij2 as a collaborator
+I since added zhuzij2 as a collaborator and it remains bypassing my git push to main???!
+I'd need to properly sync my secondary account local repo with remote repo.
